@@ -222,11 +222,3 @@ This tool is provided for educational and authorized security testing purposes o
 ## 📜 License
 
 This project is licensed under the Educational Community License v2.0 (ECL-2.0). See the LICENSE file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Microsoft Graph API Team
-- Open Source Security Community
-- Educational Institutions promoting responsible security research
